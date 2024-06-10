@@ -7,3 +7,4 @@ isort
 Flask
 transformers
 gradio
+authlib>=1.3.1 # not directly required, pinned by Snyk to avoid a vulnerability
